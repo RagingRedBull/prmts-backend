@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compartment-log-aggregator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/compartment-log-aggregator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compartment-ms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/compartment-ms.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floor-ms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/floor-ms.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mcu-logger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mcu-logger.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mcu-simulator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mcu-simulator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thesis-services.iml" filepath="$PROJECT_DIR$/thesis-services.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: compartment-log-aggregator
+server:
+  port: 9092

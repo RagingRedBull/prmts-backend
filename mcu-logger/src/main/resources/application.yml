@@ -1,0 +1,23 @@
+# DB_USER=root;DB_PASSWORD=example;DB_NAME=prmts;DB_HOST=localhost;DB_PORT=27017
+spring:
+  application:
+    name: mcu-logger
+  data:
+    mongodb:
+      username: ${DB_USER}
+      password: ${DB_PASSWORD}
+      database: ${DB_NAME}
+      host: ${DB_HOST}
+      port: ${DB_PORT}
+      authentication-database: admin
+      auto-index-creation: true
+server:
+  port: 9000
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG

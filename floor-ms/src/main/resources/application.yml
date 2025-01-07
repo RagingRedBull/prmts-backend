@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: floor-ms
+  datasource:
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+    url: ${DB_URL}
+server:
+  port: 9090
